@@ -19,7 +19,7 @@ A transformer model that combines the benefits of auto-regressive and auto-encod
 ## Fine-tuning BART
 To fine-tune BART for text summarization, follow the instructions in the bart directory. This includes:
 
-Preparing your dataset
-Configuring the fine-tuning script
-Fine-tuning BART on your dataset
-Evaluating the fine-tuned model
+1. Preparing your dataset
+2. Configuring the fine-tuning script
+3. Fine-tuning BART on your dataset
+4. Evaluating the fine-tuned model
