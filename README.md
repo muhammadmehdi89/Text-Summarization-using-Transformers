@@ -15,3 +15,11 @@ A transformer model trained in a text-to-text manner, meaning it can perform var
 A transformer model specifically designed for abstractive text summarization tasks. We utilize Pegasus for summarizing longer documents.
 ### 4. BART (Bidirectional and Auto-Regressive Transformers): 
 A transformer model that combines the benefits of auto-regressive and auto-encoding architectures, making it suitable for sequence-to-sequence tasks like text summarization. We fine-tune BART using Hugging Face's Trainer API for enhanced summarization performance.
+
+## Fine-tuning BART
+To fine-tune BART for text summarization, follow the instructions in the bart directory. This includes:
+
+Preparing your dataset
+Configuring the fine-tuning script
+Fine-tuning BART on your dataset
+Evaluating the fine-tuned model
