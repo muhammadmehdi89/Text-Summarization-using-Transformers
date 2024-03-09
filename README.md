@@ -27,4 +27,4 @@ To fine-tune BART for text summarization, follow the instructions in the bart di
 1. Preparing your dataset
 2. Configuring the fine-tuning script
 3. Fine-tuning BART on your dataset
-4. Evaluating the fine-tuned model
+4. Evaluating the fine-tuned model.
